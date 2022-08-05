@@ -1,0 +1,35 @@
+
+.text-center{
+    text-align: center;
+}
+
+ul li a,h1 a{
+    color: white;
+}
+
+.container{
+    max-width: 1300px;
+    margin:0 auto;
+   
+}
+.text-margin{
+    margin-bottom: 3em;
+}
+
+.container-2{
+    max-width: 1100px;
+    margin:0 auto;
+   
+}
+
+.same div p{
+    float: left;
+    margin-right:1em ;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1em;
+    
+}
+.margin-bot{
+    margin-bottom: 1em;
+}
